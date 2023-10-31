@@ -1,5 +1,5 @@
 # popup sample
-font nya belum dirubah
+font nya belum dirubah masih bawaan default 
 
 liat di index.html 
 dipahami kodenya
